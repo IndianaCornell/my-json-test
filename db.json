@@ -1,10 +1,72 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello World" },
-    { "id": 2, "title": "Second Post" }
+  "map": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/map.svg",
+  "service": [
+    {
+      "id": 1,
+      "title": "Очищення фільтра",
+      "description": "Стан чудовий",
+      "status": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/success.svg",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/filter.svg"
+    },
+    {
+      "id": 2,
+      "title": "Пилезбірник",
+      "description": "Потребує заміни",
+      "status": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/error.svg",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/dust.svg"
+    },
+    {
+      "id": 3,
+      "title": "Центральна щітка",
+      "description": "Стан чудовий",
+      "status": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/success.svg",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/brush.svg"
+    },
+    {
+      "id": 4,
+      "title": "Бокова щітка",
+      "description": "Потребує заміни",
+      "status": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/error.svg",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/sidebrush.svg"
+    },
+    {
+      "id": 5,
+      "title": "Колеса",
+      "description": "Стан чудовий",
+      "status": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/success.svg",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/wheel.svg"
+    }
   ],
-  "users": [
-    { "id": 1, "name": "Alice" },
-    { "id": 2, "name": "Bob" }
+  "history": [
+    {
+      "id": 1,
+      "title": "Сухе\\вологе прибирання",
+      "description": "Прибрано усі приміщення",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+    },
+    {
+      "id": 2,
+      "title": "Колеса",
+      "description": "Стан чудовий",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+    },
+    {
+      "id": 3,
+      "title": "Колеса",
+      "description": "Стан чудовий",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+    },
+    {
+      "id": 4,
+      "title": "Колеса",
+      "description": "Стан чудовий",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+    },
+    {
+      "id": 5,
+      "title": "Колеса",
+      "description": "Стан чудовий",
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+    }
   ]
 }
