@@ -1,5 +1,9 @@
 {
-  "map": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/map.svg",
+  "map": [
+    {
+      "url": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/map.svg"
+    }
+  ],
   "service": [
     {
       "id": 1,
