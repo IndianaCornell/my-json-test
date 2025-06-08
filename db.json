@@ -1,6 +1,7 @@
 {
   "map": [
     {
+      "id": 1,
       "url": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/map.svg"
     }
   ],
