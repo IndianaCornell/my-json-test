@@ -47,25 +47,29 @@
       "id": 1,
       "title": "Сухе\\вологе прибирання",
       "description": "Прибрано усі приміщення",
-      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg",
+      "date": "12/04/2025"
     },
     {
       "id": 2,
       "title": "Сухе прибирання",
       "description": "Прибрано вітальню та кухню",
-      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg",
+      "date": "13/04/2025"
     },
     {
       "id": 3,
       "title": "Сухе\\вологе прибирання",
       "description": "Прибрано вітальню та кухню",
-      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg",
+      "date": "14/04/2025"
     },
     {
       "id": 4,
       "title": "Вологе прибирання",
       "description": "Прибрано кухню",
-      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg"
+      "icon": "https://raw.githubusercontent.com/IndianaCornell/my-json-test/main/assets/minimap.svg",
+      "date": "17/04/2025"
     }
   ]
 }
